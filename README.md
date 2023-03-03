@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Jain</h1>
 <h3 align="center">I am a geophysics student at IIT ISM, India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-jain-in&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-jain-in" /> </p>
-
 - 🔭 I’m currently working on [RL Based Resolution Improvement of Geo-Data](https://drive.google.com/file/d/1iP0tSfE2BuO4FLJqJXDagKZCfLKPKsHN/view)
 
 - 🌱 I’m currently learning **Data Science**
