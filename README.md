@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Himanshu Jain</h1>
-<h3 align="center">I am a geophysics student at IIT ISM, India.</h3>
-
-- 🔭 I’m currently working on [RL Based Resolution Improvement of Geo-Data](https://drive.google.com/file/d/1iP0tSfE2BuO4FLJqJXDagKZCfLKPKsHN/view)
-
-- 🌱 I’m currently learning **Data Science**
-
-- 🤝 I’m looking for guidance on **Full stack development**
+<h3 align="center">I am working as a Research Analyst.</h3>
 
 - 👨‍💻 All of my projects are available at [https://himanshu-jain-in.github.io/](https://himanshu-jain-in.github.io/)
 
-- 💬 Ask me about **Physics, Seismic Data, or Machine Learning**
+- 💬 Ask me about **Physics or Machine Learning**
 
 - 📫 How to reach me **himjain567@gmail.com**
 
